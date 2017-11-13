@@ -1,1 +1,4 @@
-File - version 1 - ORACLE
+File - version 2 - ORACLE + PMD
+
+------
+Added PMD, CheckStyle, FindBugs
