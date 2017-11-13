@@ -1,4 +1,5 @@
-File - version 2 - ORACLE + PMD
+File - version 3 - ORACLE + PMD
 
 ------
 Added PMD, CheckStyle, FindBugs
+Created entities: Owner, Appartment
