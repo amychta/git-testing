@@ -1,4 +1,6 @@
-File - version 1 - ORACLE
+File - version db 2_2 - DB2 AS/400
 -----
 On branch DB2 AS/400 
 Added DB2 jdbc driver
+
+Added TableFreq.java class

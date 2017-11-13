@@ -1,0 +1,3 @@
+class TableFreq{
+	int id;
+}
